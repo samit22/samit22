@@ -1,16 +1,34 @@
-### Hi there 👋
+<h3 align="center">
+ Hello, amazing people!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<!--
-**samit22/samit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```go
+ package main
 
-Here are some ideas to get you started:
+import "fmt"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+type SoftwareEngineer struct {
+	Name    string
+	Role    string
+	Work    string
+	Country string
+	Hobbies []string
+}
+
+func (se SoftwareEngineer) Hello() {
+	fmt.Println("Hello there, thanks for the visit, hope you find my profile useful!!")
+}
+
+func main() {
+	me := SoftwareEngineer{
+		Name:    "Samit Ghimire",
+		Role:    "Lead Engineer",
+		Work:    "CloudFactory",
+		Country: "Nepal",
+		Hobbies: []string{"Photography", "Biking"},
+	}
+	me.Hello()
+}
+
+```
