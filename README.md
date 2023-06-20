@@ -34,6 +34,9 @@ func main() {
 }
 
 ```
+## Certification
+![Google Cloud Professional Developer](https://www.credential.net/6bbed7e4-5039-4140-8190-8353ac7f497a?key=c758edc8195d1f4feb9520cb587f4b04334f68f374a52bb439f81c50854384eb)
+
 ## My Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samit22&theme=monokai-metallian&hide_border=true)
