@@ -35,7 +35,7 @@ func main() {
 
 ```
 ## Certification
-![Google Cloud Professional Developer](https://google.accredible.com/6bbed7e4-5039-4140-8190-8353ac7f497a)
+![Google Cloud Professional Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/30912116)
 
 ## My Streak
 
