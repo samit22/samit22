@@ -38,12 +38,11 @@ func main() {
 ![Google Cloud Professional Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/30912116)
 
 ## Tech Stacks
-<ul> ### Language<ul> 
-	
-<li><img alt="Golang" src="https://img.shields.io/badge/Golang-Golang-blue?logo=go&style=flat-square&logoColor=white" /></li>
-<li><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></li>	
-### AWS <img alt="AWS" src="https://img.shields.io/badge/aws-aws-orange?logo=amazonaws&style=flat-square&logoColor=white"/>
-<img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-DynamoDB-blue?logo=amazondynamodb&style=flat-square&logoColor=white" />
+	### Languages
+		<li><img alt="Golang" src="https://img.shields.io/badge/Golang-Golang-blue?logo=go&style=flat-square&logoColor=white" /></li>
+		<li><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></li>	
+	### AWS <img alt="AWS" src="https://img.shields.io/badge/aws-aws-orange?logo=amazonaws&style=flat-square&logoColor=white"/>
+ 		<li><img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-DynamoDB-blue?logo=amazondynamodb&style=flat-square&logoColor=white" /></li>
 ## My Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samit22&theme=monokai-metallian&hide_border=true)
