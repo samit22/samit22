@@ -25,9 +25,9 @@ func (se SoftwareEngineer) Hello() {
 func main() {
 	me := SoftwareEngineer{
 		Name:    "Samit Ghimire",
-		Role:    "Lead Engineer",
-		Work:    "CloudFactory",
-		Country: "Nepal",
+		Role:    "Sr. Software Engineer,
+		Work:    "Epsilon",
+		Country: "Australia",
 		Hobbies: []string{"Photography", "Biking"},
 	}
 	me.Hello()
